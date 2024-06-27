@@ -1,3 +1,4 @@
+
 # Ruxccon Dotfiles
 
 Welcome to my personal dotfiles repository! This repository contains my custom configuration files for various applications and tools I use. These dotfiles are highly personalized to suit my preferences and workflow.
@@ -37,3 +38,6 @@ Welcome to my personal dotfiles repository! This repository contains my custom c
 - [Eza](https://github.com/eza-community/eza) - `ls` replacement
 - [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Interactive filtering
+
+  ![Figure 1](https://github.com/mukhlisakb/dotfiles-akb-public/blob/main/images/picture2.png)
+  ![Figure 2](https://github.com/mukhlisakb/dotfiles-akb-public/blob/main/images/picture1.png)
